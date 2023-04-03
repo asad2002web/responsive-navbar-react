@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "type": "Basic",
+    "price": 50,
+    "description": "Access to gym facilities during off-peak hours only",
+    "features": [
+      "Access during off-peak hours",
+      "No personal training sessions",
+      "Limited equipment usage",
+      "No access to group fitness classes"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "Standard",
+    "price": 75,
+    "description": "Access to gym facilities during all opening hours",
+    "features": [
+      "Access during all opening hours",
+      "No personal training sessions",
+      "Unlimited equipment usage",
+      "Access to select group fitness classes"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "Premium",
+    "price": 100,
+    "description": "Access to gym facilities during all opening hours, plus personal training sessions",
+    "features": [
+      "Access during all opening hours",
+      "Personal training sessions",
+      "Unlimited equipment usage",
+      "Access to all group fitness classes"
+    ]
+  }
+]
