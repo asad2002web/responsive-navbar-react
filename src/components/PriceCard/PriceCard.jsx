@@ -11,6 +11,7 @@ const PriceCard = ({ plan }) => {
           <span className="text-purple-800 text-2xl">/month</span>
         </p>
         <h2 className="text-center text-3xl font-bold py-4">Plan: {type}</h2>
+        <h3 className="text-white underline text-2xl font-semibold mt-5">Features:</h3>
         {
             features.map((feature, idx) => <Features 
             key={idx}
